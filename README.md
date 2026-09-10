@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="Images/Pizza%20Sales%20Banner.png" alt="Pizza Sales Analysis Banner" width="100%">
+  <img src="https://github.com/sabbirakash/Pizza-Sales-Analysis-Dashboard-Power-BI/blob/main/Images/Pizza%20Sales%20Analysis%20Banner.png" width="100%">
 </p>
 
 ---
@@ -34,11 +34,11 @@ This project presents an **interactive Power BI dashboard** built on pizza sales
 # 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Pizza%20Sales%20Dashboard.png" alt="Pizza Sales Dashboard" width="100%">
+  <img src="https://github.com/sabbirakash/Pizza-Sales-Analysis-Dashboard-Power-BI/blob/main/Images/Pizza%20Sales%20Analysis%20Dashboard_1.jpg" alt="Pizza Sales Dashboard" width="100%">
 </p>
 
 <p align="center">
-  <img src="Images/Pizza%20Sales%20Dashboard%20-%20Best%20Worst%20Sellers.png" alt="Best & Worst Sellers" width="100%">
+  <img src="https://github.com/sabbirakash/Pizza-Sales-Analysis-Dashboard-Power-BI/blob/main/Images/Pizza%20Sales%20Analysis%20Dashboard_2.png" alt="Best & Worst Sellers" width="100%">
 </p>
 
 ---
